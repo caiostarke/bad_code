@@ -1,4 +1,4 @@
-## I've asked chatGPT for looking my code and provide some insights
+## I've asked chatGPT to look at my code and provide some suggestions for improvements.
 
 ### Considerations about result:
 
